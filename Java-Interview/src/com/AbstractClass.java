@@ -1,6 +1,7 @@
 package com;
 
 abstract class AbstractClass {
+	
 
 	abstract void eat();
 	 public AbstractClass(){
